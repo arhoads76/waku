@@ -13,3 +13,5 @@ dist
 .node-version
 pages.gen.ts
 test-results
+temp_auto_push.bat
+temp_interactive_push.bat
